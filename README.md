@@ -4,7 +4,7 @@
 <!-- <p><b>First-Class Data Science (BSc) Graduate | Oxfordshire, UK </b></p> -->
 </div>
 
-I am a motivated Data Science graduate with a First-Class (Hons) degree from the University of Essex (2024). I am currently further developing my practical toolkit through a Level 3 [Data Technician Bootcamp](https://github.com/MaxMedland/Data-Technician-Bootcamp) to translate my academic knowledge into industry-ready solutions. My focus is on building a robust portfolio in Power BI, Tableau, and Python to demonstrate my ability to handle end-to-end data tasks.
+I am a motivated Data Science and Analytics graduate with a First-Class (Hons) degree from the University of Essex (2024). I am currently further developing my practical toolkit through a Level 3 [Data Technician Bootcamp](https://github.com/MaxMedland/Data-Technician-Bootcamp) to translate my academic knowledge into industry-ready solutions. My focus is on building a robust portfolio in Power BI, Tableau, and Python to demonstrate my ability to handle end-to-end data tasks.
 
 ### 🛠 Technical Ecosystem
 
