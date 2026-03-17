@@ -24,7 +24,6 @@ I am a motivated Data Science and Analytics graduate with a First-Class (Hons) d
 * **📉 BI Dashboarding:** Actively building a portfolio in **Tableau** and **Power BI**, focusing on creating intuitive, interactive reports that allow users to explore data from multiple perspectives.
 <!--* **🐍 Machine Learning:** Proficient in the Python scientific stack (Pandas, NumPy, Scikit-Learn), with experience in building and evaluating supervised learning models like **Random Forest** and **Logistic Regression**.
 -->
-
 ---
 <!--
 ### 🔍 Beyond the Data
@@ -34,23 +33,3 @@ I am a motivated Data Science and Analytics graduate with a First-Class (Hons) d
 * **🚀 Future Goals:** I am currently seeking an **entry-level or graduate role** in data where I can use my curiosity and technical skills to help organizations make better, data-driven decisions.
 
 ---
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaxMedland&show_icons=true&theme=radical" alt="Max's GitHub Stats" />
-</p>
--->
-<!--
-**MaxMedland/MaxMedland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
