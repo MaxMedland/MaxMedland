@@ -33,3 +33,5 @@ I am a motivated Data Science and Analytics graduate with a First-Class (Hons) d
 * **🚀 Future Goals:** I am currently seeking an **entry-level or graduate role** in data where I can use my curiosity and technical skills to help organizations make better, data-driven decisions.
 
 ---
+I am currently working though my past projects to see what i can and can't upload as evidence of my skills
+-->
