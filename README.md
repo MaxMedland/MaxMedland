@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Max Medland</h1>
-<h3>First-Class Data Science and Analytics (BSc) Graduate</h3>
+<h3> <!-- First-Class --> Data Science and Analytics (BSc) Graduate</h3>
 <!-- <p><b> </b></p> -->
 </div>
 
