@@ -27,7 +27,7 @@ I am a motivated Data Science and Analytics graduate with a **First-Class (Hons)
 #### 📊 Data Analysis & Visualisation
 * **Microsoft Excel:** Advanced Formulas (`XLOOKUP`, `INDEX/MATCH`), Pivot Tables, Pivot Charts, and Data Cleaning.
 * **Tableau:** Creating interactive dashboards, data storytelling, and applying visualisation best practices.
-* **Power BI:** Data modeling, reporting, and using **Power Query** for automated ETL processes.
+* **Power BI:** Data modelling, reporting, and using **Power Query** for automated ETL processes.
 * **Visual Storytelling:** Proficient in **Matplotlib** and **Seaborn** (Python) as well as **ggplot2** (R).
 
 #### 🗄️ Databases & SQL
@@ -53,7 +53,7 @@ I am a motivated Data Science and Analytics graduate with a **First-Class (Hons)
 ### 🧠 Core Capabilities & Experience
 
 * **🎓 Academic Excellence:** My BSc provided a rigorous foundation in statistical theory, data ethics, and the mathematical principles of information science.
-* **🔍 Critical Data Literacy:** I enjoy analyzing how the same datasets and information can be framed to support differing perspectives in media, allowing me to spot bias and ensure objectivity in my own reporting.
+* **🔍 Critical Data Literacy:** I enjoy analysing how the same datasets and information can be framed to support differing perspectives in media, allowing me to spot bias and ensure objectivity in my own reporting.
 * **💡 Business-Centric Problem Solving:** I focus on the "why" behind the numbers, ensuring that every visualisation or model I build translates into actionable insights for stakeholders.
 
 ---
