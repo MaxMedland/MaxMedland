@@ -59,6 +59,6 @@ I am a motivated Data Science and Analytics graduate with a **First-Class (Hons)
 ---
 
 ### 📂 Featured Projects
-*Coming soon... I am currently auditing my university and bootcamp projects to upload high-quality evidence of my skills.*
+*Coming soon... I am currently auditing my university and bootcamp projects to upload.*
 
 ---
